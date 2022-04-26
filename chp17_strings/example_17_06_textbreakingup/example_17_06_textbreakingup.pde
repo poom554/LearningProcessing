@@ -5,7 +5,7 @@
 // Example 17-6: Text breaking up 
 
 PFont f;
-String message = "click mouse to shake it up";
+String message = "Hang in there!";
 
 // An array of Letter objects
 Letter[] letters;
@@ -45,4 +45,3 @@ void draw() {
     }
   }
 }
-
